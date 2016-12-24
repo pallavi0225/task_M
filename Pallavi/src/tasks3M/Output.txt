@@ -1,0 +1,13 @@
+[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+[TestNG] Running:
+  C:\Users\hanup\workspace\selenium\src\tasks3M\Tasks.xml
+
+Task1_3M_Signin Result:
+CREATE AN ACCOUNT text is successfully verified in create an account page.
+Task2_3M_Create_Account Result:
+Welcome to your account is present
+
+===============================================
+Suite
+Total tests run: 2, Failures: 0, Skips: 0
+===============================================
