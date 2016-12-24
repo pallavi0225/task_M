@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test name="3M Test Results ">
+    <classes>
+      <class name="tasks3M.Task1_3M_Signin"/>
+      <class name="tasks3M.Task2_3M_Create_Account"/>
+     </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
